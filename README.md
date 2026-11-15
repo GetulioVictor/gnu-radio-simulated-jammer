@@ -4,7 +4,7 @@ GNU Radio flowgraph that receives a real FM station with an RTL-SDR and adds a j
 
 > **Nothing is transmitted.** The RTL-SDR is receive-only, and the interference only exists as samples added in software.
 
-The full explanation is in the article: [Blog](https://getuliovictor.github.io/)
+The full explanation is in the [article](https://getuliovictor.github.io/posts/gnu-radio-simulated-jammer/)
 
 ## Requirements
 
